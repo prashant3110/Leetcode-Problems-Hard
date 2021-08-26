@@ -39,7 +39,7 @@ public:
             if(nums[i]>0 && nums[i]<=n)
             {
                 check[nums[i]]=true;
-            }   
+            }    
             
         }
         
