@@ -44,7 +44,7 @@ public:
         }
         
         int ans=-1;
-        
+         
         for(int i=1;i<N;i++)
         {
             if(check[i]==false)
